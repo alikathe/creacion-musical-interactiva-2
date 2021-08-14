@@ -1,10 +1,7 @@
 body {
-    font-family: 'Catamaran', sans-serif;
+    font-family: 'Alegreya Sans', sans-serif;
     margin-top: 18rem;
-    background-color: white;
-    margin: 0em;
-}
-body {
+    background-color: black;
     display: block;
     margin: 8px;
 }
@@ -23,22 +20,22 @@ header {
 }
 
 h1 {
-    font-family: 'Catamaran', 'Alegreya Sans', sans-serif;
-    font-weight: 900;
-    font-size: 4rem;
+    font-family: 'Alegreya Sans', sans-serif;
+    font-weight: 100;
+    font-size: 5rem;
     color: rgb(198, 113, 164);
     margin: 2.8rem 0 0.2rem 0;
 }
 p {
-    font-size: 1.8rem;
+    font-size: 1.6rem;
     font-weight: 100;
-    color: black ;
+    color: ghostwhite;
     text-align: left;
 }
 a {
     font-size: 1.8rem;
     color: rgb(198, 113, 164);
-    font-weight: 700;
+    font-weight: bold;
     text-decoration: none;
 }
 a:hover{
@@ -59,7 +56,7 @@ footer img{
     margin-right: 20px;
 }
 footer a{
-    font-size: 1.3rem;
+    font-size: 1.2rem;
 }
 #footer{
     margin-left: 50px;
@@ -68,6 +65,7 @@ footer a{
 footer p{
     font-size: 1.2rem;
     margin-top: 10px;
+    color: ghostwhite;
 }
 footer span{
     font-weight: bold;
