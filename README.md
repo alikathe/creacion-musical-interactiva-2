@@ -1,2 +1,2 @@
-# Creación-Musical-interactiva
-Proyecto de creación musical interactiva, liderado por el profesor de música Francisco Guzmán, con el colegio Hebreo de Viña del Mar, durante el año 2020.
+# Creación-Musical-interactiva-2
+Obra de creación musical interactiva desarrollada en kalimba y flauta traversa, creada por el compositor Francisco Guzmán Cid de Valparaíso, durante el año 2021.
